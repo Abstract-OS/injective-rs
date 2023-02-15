@@ -1,0 +1,3 @@
+[submodule "injective-sdk-go"]
+  path = injective-sdk-go
+  url = https://github.com/InjectiveLabs/sdk-go
